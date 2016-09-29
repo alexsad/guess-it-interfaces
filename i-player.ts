@@ -1,4 +1,4 @@
-import {ICard} from "../i-card";
+import {ICard} from "./i-card";
 import {EPlayerStatus} from "./e-player";
 
 
