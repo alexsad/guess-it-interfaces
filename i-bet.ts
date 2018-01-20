@@ -1,8 +1,8 @@
-import {IPlayer} from "./i-player";
-import {ICard} from "./i-card";
+import {IPlayer} from './i-player';
+import {ICard} from './i-card';
 
 export interface IBet{
 	player:IPlayer;
 	card:ICard;
-	voters:IPlayer[]
+	voters:IPlayer[];
 }

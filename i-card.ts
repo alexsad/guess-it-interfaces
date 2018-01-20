@@ -1,4 +1,4 @@
-import {ECardStatus} from "./e-card";
+import {ECardStatus} from './e-card';
 
 export interface ICard{
 	id:number;
